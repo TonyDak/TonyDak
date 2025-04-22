@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Đức Nguyễn Hữu</h1>
 <h3 align="center">A backend developer with a strong passion for Spring Boot. I'm currently expanding my knowledge and skills into frontend and DevOps, aiming to become a more versatile engineer capable of delivering efficient and optimized application solutions from user interface to deployment infrastructure.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonydak&label=Profile%20views&color=0e75b6&style=flat" alt="tonydak" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
